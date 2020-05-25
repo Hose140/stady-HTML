@@ -1,1 +1,1 @@
-# stady-HTML
+# study-HTML
